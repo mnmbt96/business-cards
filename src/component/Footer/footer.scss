@@ -1,0 +1,25 @@
+.footer {
+  background-color: #1a1b21;
+  width: 317px;
+  height: 64px;
+  background: #161619;
+  border-radius: 0px 0px 10px 10px;
+
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+
+  .socialMediaIcon {
+    color: #918e9b;
+    height: 25px;
+    width: 25px;
+  }
+
+  .socialMediaIcon:first-child {
+    padding-left: 15px;
+  }
+
+  .socialMediaIcon:last-child {
+    padding-right: 15px;
+  }
+}
