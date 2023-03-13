@@ -1,4 +1,4 @@
-# Business cards by React.js
+# Degital business cards by React.js
 ### ✏️ Purpose
 Understanding props and components
 
